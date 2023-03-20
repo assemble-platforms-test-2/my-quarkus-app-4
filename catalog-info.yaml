@@ -5,6 +5,7 @@ metadata:
   annotations:
     github.com/project-slug: assemble-platforms-test-2/my-quarkus-app-4
     backstage.io/techdocs-ref: dir:.
+    backstage.io/kubernetes-id: my-quarkus-app-4
   tags:
     - java
     - quarkus
